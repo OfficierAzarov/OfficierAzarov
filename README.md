@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Electronic Tales Platform](https://github.com/OfficierAzarov/electronic-tales-platform)
 
-- 🌱 I’m currently learning **Computer architecture (Nand2Tetris) & Docker**
+- 🌱 I’m currently learning **Computer architecture (Nand2Tettris), [game development and pixel art](https://github.com/OfficierAzarov/rpg)**
 
 - 📝 I regularly write articles on [https://platform.electronictales.io/](https://platform.electronictales.io/)
 
