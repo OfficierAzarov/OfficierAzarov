@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Officier Azarov</h1>
 <h3 align="center">A developer passionate by learning & teaching, co-founder of <a href="https://www.electronictales.io">electronictales.io</a></h3>
 
-- 🔭 I’m currently working on [Electronic Tales Platform](https://github.com/OfficierAzarov/electronic-tales-platform)
+- 🔭 I’m currently working for [Electronic Tales](https://www.ulule.com/micro-bootcamps/)
 
 - 🌱 I’m currently learning **Computer architecture (Nand2Tettris), [game development and pixel art](https://github.com/OfficierAzarov/rpg)**
 
-- 📝 I regularly write articles on [https://platform.electronictales.io/](https://platform.electronictales.io/)
+- 📝 I write articles on [https://electronictales.substack.com/](https://electronictales.substack.com/)
 
 - ⚡ Fun fact **My favorite meal should be some kind of fancy french cuisine, but it's actually kebabs 🥙**
 
