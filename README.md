@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for [Electronic Tales](https://www.ulule.com/micro-bootcamps/)
 
-- 🌱 I’m currently learning **Computer architecture (Nand2Tettris), [game development and pixel art](https://github.com/OfficierAzarov/rpg)**
+- 🌱 In my free time, I’m currently learning **[game development and pixel art](https://github.com/OfficierAzarov/rpg)**
 
 - 📝 I write articles on [https://electronictales.substack.com/](https://electronictales.substack.com/)
 
